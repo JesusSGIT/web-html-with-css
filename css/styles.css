@@ -102,7 +102,7 @@ padding: 20px;
     width: 10%;
 }
 
-.trademark{
+.copyright{
     color: honeydew;
 }
 
@@ -151,6 +151,10 @@ padding: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
+    }
+
+    .footer-img{
+        width: 5%;
     }
 
     
