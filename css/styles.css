@@ -90,6 +90,7 @@ padding: 20px;
     width: 25%;
     float: left;
     margin-right: 30px;
+    border-radius: 100%;
 }
 
 .chillieimage{
@@ -100,6 +101,7 @@ padding: 20px;
 
 .pic{
     width: 10%;
+    border-radius: 100%;
 }
 
 .copyright{
@@ -129,8 +131,8 @@ padding: 20px;
     box-shadow: 1px 1px 20px 0px #000000;
     -webkit-box-shadow: 1px 1px 20px 0px #000000;
     -moz-box-shadow: 1px 1px 20px 0px #000000;
-    text-shadow: 1px 1px 20px #000000 ;
-    border: solid #337FED 1px;
+text-shadow: 1px 1px 20px #000000 ;
+border: solid #337FED 1px;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
