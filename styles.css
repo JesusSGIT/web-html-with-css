@@ -1,0 +1,162 @@
+
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 2em;
+}
+
+h1{
+    margin-top:50px;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 5.65rem;
+    color:  #66BFBF;
+}
+
+h2{
+    
+    color:  #66BFBF;
+}
+
+h3{
+    font-family: 'Yeon Sung', cursive;
+    color: #11999E;
+    margin-bottom: 0;
+}
+
+hr{
+   border: dotted #d7dfdf 6PX;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto;
+}
+
+.pt{
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 2;
+    color:  #66BFBF;
+}
+
+p{
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 2;
+    margin-top: 15px;
+}
+
+.intro{
+    width: 20%;
+    margin: auto;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px; 
+}
+
+.Tcontainer{
+    background-color: #EAF6F6;
+    margin-top: 0;
+    padding-top: 200px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px auto;
+ 
+}
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 20px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+      
+}
+
+.pcimage{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+.chillieimage{
+    width: 25%;
+    float: right;
+    margin-right: 30px;    
+}
+
+.pic{
+    width: 10%;
+    border-radius: 100%;
+}
+
+.copyright{
+    color: honeydew;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.BUTTON_EKW{
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, rgb(91, 136, 209));
+    background-image: -moz-linear-gradient(top, #3D94F6, rgb(90, 140, 221));
+    background-image: -ms-linear-gradient(top, #3D94F6, rgb(80, 129, 207));
+    background-image: -o-linear-gradient(top, #3D94F6, rgb(107, 143, 201));
+    background-image: linear-gradient(to bottom, #3D94F6, rgb(117, 157, 221));
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 10px;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -webkit-box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+text-shadow: 1px 1px 20px #000000 ;
+border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    
+   margin: 40px auto;
+    }
+    
+    .BUTTON_EKW:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+
+    .footer-img{
+        width: 5%;
+    }
+
+    
